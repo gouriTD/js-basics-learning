@@ -1,3 +1,6 @@
+'use strict';
+//Use of strict makes the following js file adhere to the new standards of js.
+
 console.log('Hello World!!!! I am there');
 
 // Different methods of logging. use of console.log , console.table.
